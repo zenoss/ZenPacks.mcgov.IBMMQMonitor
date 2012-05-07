@@ -4,7 +4,7 @@
 NAME = "ZenPacks.mcgov.IBMMQMonitor"
 VERSION = "1.2"
 AUTHOR = "Suchitra Subbakrishna"
-LICENSE = "LGPL"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.mcgov']
 PACKAGES = ['ZenPacks', 'ZenPacks.mcgov', 'ZenPacks.mcgov.IBMMQMonitor']
 INSTALL_REQUIRES = []
